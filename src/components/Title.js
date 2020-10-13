@@ -1,7 +1,7 @@
 import React from "react";
 
 function Title(props) {
-  return <h1>{props.content}</h1>;
+  return <h2>{props.content}</h2>;
 }
 
 export default Title;
