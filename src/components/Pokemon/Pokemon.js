@@ -1,4 +1,5 @@
 import React from "react";
+import "./Pokemon.scss";
 
 function Pokemon(props) {
   return (
