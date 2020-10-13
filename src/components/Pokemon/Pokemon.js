@@ -1,5 +1,4 @@
 import React from "react";
-import PokemonStyle from "./Pokemon.scss";
 
 function Pokemon(props) {
   return (
